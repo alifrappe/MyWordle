@@ -1,0 +1,19 @@
+{
+  "name": "mywordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc main.ts && node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.7.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}
